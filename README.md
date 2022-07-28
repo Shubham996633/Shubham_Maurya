@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RisjioMaujio (Shubham Maurya)
+- 👋 Hi, I’m @Shubham_999 (Shubham Maurya)
 - 👀 I’m interested in Coding and exploring skills.
-- 🌱 I’m currently learning python language and web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
+
 - 📫 How to reach me ... Just Email me : Risjiomaujio7654@gmail.com
 
 <!---
